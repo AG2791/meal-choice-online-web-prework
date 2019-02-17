@@ -7,3 +7,12 @@ def meal_choice(choice="meat")
  
 end
 
+# Ask instructure why this verions didnt pass test
+
+# def meal_choice(choice="meat")
+   
+#     puts "#{choice}"
+ 
+# end
+# meal_choice
+
