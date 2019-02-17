@@ -7,7 +7,7 @@ def meal_choice(choice="meat")
  
 end
 
-# Ask instructure why this verions didnt pass test
+# Ask instructor why this verions didn't pass test
 
 # def meal_choice(choice="meat")
    
